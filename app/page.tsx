@@ -47,15 +47,15 @@ export default function Home() {
 
   const projects: Project[] = [
     {
-      name: "Haircut Assistant App *work in progress*",
+      name: "Beard Trimming Assistant App *work in progress*",
       description: "Innovative mobile application using AR and real-time image processing",
       date: "Aug 2024",
       details: [
-        "Allows users to scan their hair, compare it with a desired haircut, and display precise measurements",
-        "Enhances user satisfaction and confidence in haircut planning",
+        "Allows users to scan their facial hair, compare it with a desired haircut, and display precise measurements",
+        "Enhances user satisfaction and confidence in beard trimming planning",
         "Implementing technologies in Python, OpenCV, ARKit/ARCore, React Native, and MATLAB"
       ],
-      githubLink: "https://github.com/tahasecond/cutIt"
+      githubLink: "https://github.com/tahasecond/BeardTrimGuide"
     },
     {
       name: "Form Validation System",
