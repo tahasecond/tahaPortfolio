@@ -298,8 +298,8 @@ export default function Home() {
             <h3 className="text-2xl font-semibold">Georgia Institute of Technology</h3>
             <p>B.S. in Computer Science (Intelligence/Info Internetworks Thread)</p>
             <p>Minor in Law, Science, & Technology</p>
-            <p>Expected Graduation: May 2026</p>
-            <p>GPA: 3.5/4.0</p>
+            <p>Expected Graduation: 2027</p>
+            <p>GPA: 3.75/4.0</p>
             <p className="mt-2"><strong>Relevant Coursework:</strong> Data Structures & Algorithms, Object Oriented Programming, Computer Architecture, Linear Algebra</p>
           </section>
 
