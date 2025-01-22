@@ -299,17 +299,17 @@ export default function Home() {
             <p>B.S. in Computer Science (Intelligence/Info Internetworks Thread)</p>
             <p>Minor in Law, Science, & Technology</p>
             <p>Expected Graduation: 2026</p>
-            <p>GPA: 3.75/4.0</p>
-            <p className="mt-2"><strong>Relevant Coursework:</strong> Data Structures & Algorithms, Object Oriented Programming, Computer Architecture, Linear Algebra</p>
+            <p>GPA: 3.5/4.0</p>
+            <p className="mt-2"><strong>Relevant Coursework:</strong> Data Structures & Algorithms, Object Oriented Programming, Computer Architecture, Linear Algebra, Objects & Design</p>
           </section>
 
           <section ref={sectionRefs.skills} className="bg-background/80 p-8 rounded-lg">
             <h2 className="text-3xl font-bold mb-4">Technical Skills</h2>
             <ul className="list-disc list-inside">
-              <li><strong>Programming Languages:</strong> Proficient in Java, JavaScript, Lua, Python; Familiar with CSS, HTML, Swift</li>
+              <li><strong>Programming Languages:</strong> Proficient in C++,Java, JavaScript, Lua, Python; Familiar with CSS, TypeScript, HTML, Swift</li>
               <li><strong>Tools & Technologies:</strong> Git, GitHub, XCode, AutoCAD, ARkit, React.js</li>
               <li><strong>Frameworks & Libraries:</strong> Familiar with TensorFlow, PyTorch</li>
-              <li><strong>Other Skills:</strong> Video Editing, Photoshop, Microsoft Office</li>
+              <li><strong>Other Skills:</strong> Video Editing, Agile Development, Distributed Systems, Microsoft Office</li>
             </ul>
           </section>
 
